@@ -2,7 +2,7 @@
 A management sytem that efficiently manages all the procedures of admission test.
 
 
-# PROGRAMMING LANGUAGES AND SOFTWARES
+# Programming language and tools
 
 ● Programming Language : PHP
 
@@ -12,7 +12,7 @@ A management sytem that efficiently manages all the procedures of admission test
 
 ● Framework: Laravel
 
-# FEATURES
+# Features
 Features are separated in two segments.
 
 # Applicant’s panel :
