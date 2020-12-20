@@ -15,7 +15,7 @@ A management sytem that efficiently manages all the procedures of admission test
 # FEATURES
 Features are separated in two segments.
 
- Applicant’s panel :
+# Applicant’s panel :
  
 ● Apply for admission
 
@@ -31,7 +31,7 @@ Features are separated in two segments.
 
 ● Merit list
 
-Admin panel :
+# Admin panel :
 
 ● Turning off application:
 
